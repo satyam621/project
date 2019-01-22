@@ -1,0 +1,7 @@
+admin panel:
+analysis
+product add delete 
+product detail update 
+admin detail update
+stock details
+foreign key constraints
